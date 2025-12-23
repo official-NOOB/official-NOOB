@@ -1,24 +1,48 @@
 ## Hi 👋 I'm Pranjul Nishad
 
-💻 Java Developer  
-🌱 Learning Spring Boot & Backend Development  
-🛠 Tech Stack: Java, Spring Boot, MySQL, Maven, Git  
-📍 Chitrakoot, UP  
+🚀 Java Developer | Backend Enthusiast  
+🌱 Learning Spring Boot & Real-World Backend Development  
+📍 Chitrakoot, Uttar Pradesh, India  
 
 ---
 
-### 🚀 Projects
-- 🏥 Hospital Management System (Spring Boot)
-- 📋 Task Manager API (Coming Soon)
+## 🛠 Tech Stack
+- **Language:** Java  
+- **Backend:** Spring Boot, REST APIs  
+- **Database:** MySQL  
+- **Tools:** Maven, Git, GitHub  
+- **Others:** Postman, JDBC  
 
 ---
 
-### 📚 Currently Learning
+## 🚀 Projects
+
+### 🏥 Hospital Management System
+**Tech:** Java, Spring Boot, MySQL, Maven  
+**Features:**
+- Patient & Doctor Management
+- Appointment Booking
+- RESTful APIs
+- CRUD Operations
+
+🔗 Repository:  
+https://github.com/official-NOOB/HospitalManagment
+
+---
+
+## 📚 Currently Learning
 - Spring Security
-- REST API Best Practices
-- Git & GitHub
+- JWT Authentication
+- Backend Best Practices
+- Clean Code
 
 ---
 
-### 📫 Connect with Me
+## 🎯 Career Goal
+To become a **Skilled Backend Java Developer** and work on  
+**scalable, real-world applications**.
+
+---
+
+## 📫 Connect With Me
 - GitHub: https://github.com/official-NOOB
